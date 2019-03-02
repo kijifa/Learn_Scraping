@@ -1,1 +1,3 @@
-print('Test')
+import sys
+
+print(sys.version_info)
